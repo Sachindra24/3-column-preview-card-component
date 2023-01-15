@@ -7,6 +7,9 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+html {
+  background-color :  hsl(0, 0%, 95%);
+}
 main {
   height: 100vh;
   display: flex;
